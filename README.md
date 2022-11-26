@@ -1,5 +1,5 @@
 - Hi, I’m Samandar.
-- I'm Dotnet Software Enginer.
+- I'm Dotnet Software Developer.
  
 - ⚙️ My Skills :  .NET, ASP.NET, WPF, PostgreSQL, Postman API, Docker.
 - 💻 My programming languages : C#, Python
